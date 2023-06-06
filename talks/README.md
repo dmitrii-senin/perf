@@ -2,6 +2,7 @@
 
 ## General
 1. [CppCon 2021: Jan Bielak "The Most Important Optimizations to Apply in Your C++ Programs"](https://youtu.be/qCjEN5XRzHc)
+1. [CppCon 2018: Fedor Pikus "Design for Performance”](https://youtu.be/m25p3EtBua4)
 
 ## Compilers
 1. [CppCon 2017: Matt Godbolt “What Has My Compiler Done for Me Lately? Unbolting the Compiler's Lid”](https://youtu.be/bSkpMdDe4g4)
