@@ -16,6 +16,7 @@
 1. [Fedor Pikus “C++ atomics, from basic to advanced. What do they really do?” (CppCon, 2017)](https://youtu.be/ZQFzMfHIxng)
 1. [Fedor Pikus "Lightning Talk: A Spinlock Implementation" (CppNow, 2022)](https://youtu.be/rmGJc9PXpuE)
 1. [Fedor Pikus “Read, Copy, Update, then what? RCU for non-kernel programmers” (CppCon, 2017)](https://youtu.be/rxQ5K9lo034)
+1. [Fedor Pikus "The speed of concurrency (is lock-free faster?)" (CppCon, 2016)](https://youtu.be/9hJkWwHDDxs)
 
 ----
 [<< Back to Content](/README.md#content)
