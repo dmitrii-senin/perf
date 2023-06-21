@@ -11,6 +11,7 @@
 1. [Fedor Pikus "Branchless Programming in C++" (CppCon, 2021)](https://youtu.be/g-WPhYREFjk)
 1. [Matt Godbolt "Memory and Caches" (Avast C++ Meetup, 2018)](https://youtu.be/vDns3Um39l0)
 1. ["How does Computer Memory Work?" (YouTube Channel: Branch Education, 2022)](https://youtu.be/7J7X7aZvMXQ)
+1. ["Chandler Carruth "Going Nowhere Faster" (CppCon, 2017)](https://youtu.be/2EWejmkKlxs)
 
 ## Concurrency
 1. [Fedor Pikus “C++ atomics, from basic to advanced. What do they really do?” (CppCon, 2017)](https://youtu.be/ZQFzMfHIxng)
