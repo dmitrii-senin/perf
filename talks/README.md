@@ -7,6 +7,9 @@
 ## Compilers
 1. [Matt Godbolt “What Has My Compiler Done for Me Lately? Unbolting the Compiler's Lid” (CppCon, 2017)](https://youtu.be/bSkpMdDe4g4)
 
+## Profiling
+1. [Chandler Carruth "Tuning C++: Benchmarks, and CPUs, and Compilers! Oh My!" (CppConn, 2015)](https://youtu.be/nXaxk27zwlk)
+
 ## Hardware
 1. [Fedor Pikus "Branchless Programming in C++" (CppCon, 2021)](https://youtu.be/g-WPhYREFjk)
 1. [Matt Godbolt "Memory and Caches" (Avast C++ Meetup, 2018)](https://youtu.be/vDns3Um39l0)
