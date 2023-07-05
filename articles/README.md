@@ -11,6 +11,7 @@
 1. [Daniel Lemire "Microbenchmarking calls for idealized conditions" (Lemire.me, 2018)](https://lemire.me/blog/2018/01/16/microbenchmarking-calls-for-idealized-conditions/)
 
 ### Profiling
+1. [Brendan Gregg "Perf Examples" (BrendanGregg.com)](https://www.brendangregg.com/perf.html)
 1. [Denis Bakhvalov "PMU counters and profiling basics" (EasyPerf.net, 2018)](https://easyperf.net/blog/2018/06/01/PMU-counters-and-profiling-basics)
 
 ----
