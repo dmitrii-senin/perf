@@ -3,6 +3,7 @@
 ## General
 1. [Jan Bielak "The Most Important Optimizations to Apply in Your C++ Programs" (CppCon, 2021)](https://youtu.be/qCjEN5XRzHc)
 1. [Fedor Pikus "Design for Performance” (CppCon, 2018)](https://youtu.be/m25p3EtBua4)
+1. [Alex Blewitt "Understanding CPU Microarchitecture" (QCon London, 2020)](https://youtu.be/rglmJ6Xyj1c?si=GQFAsoXQBj7eqFWU)
 
 ## Compilers
 1. [Matt Godbolt “What Has My Compiler Done for Me Lately? Unbolting the Compiler's Lid” (CppCon, 2017)](https://youtu.be/bSkpMdDe4g4)

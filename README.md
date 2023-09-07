@@ -1,4 +1,4 @@
-# C++ Performance on a Linux x86-64 Platform
+# C++ Performance on a x86_64-unknown-linux-gnu Platform
 
 ## Content
 1. [Perf Tools](/perf_tools/README.md)
